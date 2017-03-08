@@ -21,7 +21,7 @@ $ consul members
 ```
 
 
-**Scaling down:***
+**Scaling down:**
 
 ```
 $ docker-compose scale consul-server=3
